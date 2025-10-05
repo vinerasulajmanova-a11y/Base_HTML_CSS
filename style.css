@@ -1,0 +1,26 @@
+.content-title1 {
+  position: relative;
+  height: 27px;
+}
+
+.content-title1-text {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+p {
+  color: blue;
+  background-color: aqua;
+  font-style: italic;
+  text-decoration: underline;
+}
+h1 {
+  color: brown;
+  font-weight: 300;
+}
+
+h2 {
+  color: blueviolet;
+  font-weight: 100;
+
+}
