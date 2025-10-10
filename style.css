@@ -6,14 +6,21 @@
 .content-title1-text {
   position: absolute;
   left: 50%;
-  transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
 }
+
+.content-title {
+  color: red;
+
+}
+
 p {
-  color: blue;
-  background-color: aqua;
-  font-style: italic;
-  text-decoration: underline;
-}
+  color: blue; /* цвет текста */
+  background-color: aqua; /*задает цвет фону*/
+  font-style: italic;/*стиль шрифта */
+  text-decoration: underline;/*задает внешний вид декоративных линий*/
+  }
+
 h1 {
   color: brown;
   font-weight: 300;
